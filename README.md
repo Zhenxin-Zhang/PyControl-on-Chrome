@@ -22,7 +22,7 @@ P.S. Let me know if you need to get those websites back, that's still possible ;
 
 
 
-## see our PyControl on Chrome in action:
+## See our PyControl on Chrome in action:
 
 https://www.youtube.com/watch?v=KdxDoM9G2UY&ab_channel=Shrimpo
 
