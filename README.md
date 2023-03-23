@@ -17,7 +17,7 @@ P.S. Let me know if you need to get those websites back, that's still possible ;
 2. click 'SMASH IT'
 <img width="955" alt="Screenshot 2023-03-23 at 5 35 40 PM" src="https://user-images.githubusercontent.com/44841991/227369742-8ae59621-d713-43af-9665-85cf08f5e5ed.png">
 
-4. say goodbye forever!
+3. say goodbye forever!
 <img width="481" alt="Screenshot 2023-03-23 at 5 36 05 PM" src="https://user-images.githubusercontent.com/44841991/227369757-04184552-280a-4915-9747-d31d03b9d1b2.png">
 
 
